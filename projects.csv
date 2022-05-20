@@ -1,3 +1,4 @@
+name, url, categories
 '0 A.D.', 'https://github.com/0ad/0ad', ['Game']
 'Actual', 'https://github.com/actualbudget/actual', ['Personal Finance']
 'AdGuard Filters', 'https://github.com/AdguardTeam/AdguardFilters', ['Ad Blocking']
