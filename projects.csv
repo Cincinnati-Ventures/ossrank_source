@@ -488,6 +488,7 @@ name, url, categories
 'ORY Hydra', 'https://github.com/ory/hydra', ['Auth']
 'OSEHRA VistA', 'https://github.com/WorldVistA/VistA', ['Healthcare']
 'OsmAnd', 'https://github.com/osmandapp/OsmAnd', ['Mapping & Navigation']
+'OSSRank', 'https://github.com/ryw/ossrank_source', ['Open Source Ranking']
 'osquery', 'https://github.com/osquery/osquery', ['System Monitoring']
 'Owl Link', 'https://gitlab.com/blocksurvey/owllink', ['Link Page']
 'ownCloud', 'https://github.com/owncloud/core', ['Productivity']
