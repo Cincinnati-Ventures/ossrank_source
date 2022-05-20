@@ -529,6 +529,7 @@ name, url, categories
 'Prism', 'https://github.com/PrismJS/prism', ['Syntax Highlighting']
 'Prisma', 'https://github.com/prisma/prisma', ['Javascript Library']
 'Prometheus', 'https://github.com/prometheus/prometheus', ['System Monitoring']
+'Protobuf (Protocol Buffers)', 'https://github.com/protocolbuffers/protobuf', ['Specification']
 'Public APIs', 'https://github.com/public-apis/public-apis', ['Documentation']
 'Pulse Physiology Engine', 'https://gitlab.kitware.com/physiology/engine', ['Simulators']
 'Pulumi', 'https://github.com/pulumi/pulumi', ['Infrastructure Configuration']
