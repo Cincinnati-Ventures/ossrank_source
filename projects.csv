@@ -736,6 +736,7 @@ name, url, categories
 'WordPress', 'https://github.com/WordPress/WordPress', ['Content Management System (CMS)']
 'Wyvern Protocol', 'https://github.com/wyvernprotocol/wyvern-v3', ['Ethereum Implementation']
 'Yaetos', 'https://github.com/arthurprevot/yaetos', ['Batch Processing']
+'YAML Spec', 'https://github.com/yaml/yaml-spec', ['Specification']
 'ydata-synthetic', 'https://github.com/ydataai/ydata-synthetic', ['Synthetic Data Generation']
 'YDB', 'https://github.com/ydb-platform/ydb', ['Database']
 'You Don't Know JS Yet', 'https://github.com/getify/You-Dont-Know-JS', ['Learn to Code']
