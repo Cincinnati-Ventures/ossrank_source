@@ -175,7 +175,7 @@ name, url, categories
 'Crontab UI', 'https://github.com/alseambusher/crontab-ui', ['Batch Processing']
 'Crossplane', 'https://github.com/crossplane/crossplane', ['Kubernetes Management']
 'Cube.js', 'https://github.com/cube-js/cube.js', ['Data Visualization']
-'cURL', 'https://github.com/curl/curl, ['Utilities', 'HTTP Client']
+'cURL', 'https://github.com/curl/curl', ['Utilities', 'HTTP Client']
 'CyberChef', 'https://github.com/gchq/CyberChef', ['Cryptography']
 'Cypress', 'https://github.com/cypress-io/cypress', ['Test Automation']
 'd3', 'https://github.com/d3/d3', ['Javascript Library']
