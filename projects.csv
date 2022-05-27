@@ -468,6 +468,7 @@ name, url, categories
 'ohmyzsh', 'https://github.com/ohmyzsh/ohmyzsh', ['zsh Configuration']
 'OKD', 'https://github.com/openshift/okd', ['Container Management']
 'One', 'https://github.com/One-Language/One', ['Programming Language']
+'ONNX', 'https://github.com/onnx/onnx', ['Specification']
 'Open Metadata', 'https://github.com/open-metadata/OpenMetadata', ['Metadata Platform']
 'Open Policy Agent (OPA)', 'https://github.com/open-policy-agent/opa', ['Policy Engine']
 'Open Porous Media Simulators', 'https://github.com/OPM/opm-simulators', ['Simulators']
