@@ -125,7 +125,6 @@ name
 'Mapping & Navigation'
 'Market Terminal'
 'Media Player'
-'Media Player'
 'Media Server'
 'Messaging'
 'Metadata Platform'
@@ -214,3 +213,5 @@ name
 'Wiki'
 'Workflow Orchestration'
 'zsh Configuration'
+'Multilayer Switch'
+'Pen Testing'
