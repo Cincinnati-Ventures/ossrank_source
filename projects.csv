@@ -477,6 +477,7 @@ name, url, categories
 'Netty', 'https://github.com/netty/netty', ['Networking']
 'NeuralForecast', 'https://github.com/Nixtla/neuralforecast', ['Deep Learning / ML / AI']
 'Newman', 'https://github.com/postmanlabs/newman', ['Test Automation']
+'Nextcloud', 'https://github.com/nextcloud/server', ['Web-Based Computing', 'File System', 'Content Management System (CMS)', 'Integrated Office Suite']
 'Next.js', 'https://github.com/vercel/next.js', ['App Dev']
 'nginx', 'https://github.com/nginx/nginx', ['Service Proxy', 'Web Server']
 'Nhost', 'https://github.com/nhost/nhost', ['GraphQL Backend']
